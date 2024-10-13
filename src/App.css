@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* width: max-content; */
+}
+
+/* Hide the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  display: none;
+}
+
+/* Optionally hide the entire scrollbar */
+::-webkit-scrollbar {
+  display: none;
+}
+.app{
+  border: 8px solid lightblue;
+  padding: 5px;
+}
